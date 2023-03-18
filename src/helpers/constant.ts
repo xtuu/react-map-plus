@@ -1,0 +1,1 @@
+export const mapboxToken = process.env.REACT_APP_TOKEN_MAPBOX; 
